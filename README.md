@@ -1,0 +1,1 @@
+This repository contains an example of a common Python coding error: an unclosed bracket in a function definition.  The error leads to a SyntaxError. The bug.py file shows the erroneous code.  bugSolution.py provides a corrected version.
